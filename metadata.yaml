@@ -1,0 +1,30 @@
+_repo: Company-GA-Record-of-the-Services-of-One-Company-of-the-157th-N.-Y.-Vols.-in-the-War-of-the-R__43562
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43562-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Barlow, A. R. (Albert Rowe)
+    alias: Barlow, Albert Rowe
+    gutenberg_agent_id: '42297'
+    url: http://www.gutenberg.org/2009/agents/42297
+description: ''
+gutenberg_issued: '2013-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. New York Infantry Regiment, 157th (1862-1865). Company
+  G'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+title: 'Company G
+
+  A Record of the Services of One Company of the 157th N. Y. Vols. in the War of the
+  Rebellion from Sept. 19, 1862, to July 10, 1865'
+url: http://www.gutenberg.org/ebooks/43562
